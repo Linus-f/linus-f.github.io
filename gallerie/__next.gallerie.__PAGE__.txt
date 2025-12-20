@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[91802,["/_next/static/chunks/01753452ac5baafa.js","/_next/static/chunks/581bc467369151d4.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"buildId":"VsXvDixofE-NmtHRNcmmi","rsc":["$","$1","c",{"children":[[["$","h1",null,{"children":"Fotos"}],"\n",["$","p",null,{"children":["Hier könnt ihr einige Einblicke von uns Wehrer Pfadfindern gewinnen. Auf Lagern und vielen anderen Aktionen der Gruppen und der Leiterrunde entstehen immer wieder tolle Bilder. Wir sind auch auf ",["$","a",null,{"href":"https://www.instagram.com/pfadfinder_wehr","children":"Instagram"}]," und ",["$","a",null,{"href":"https://de-de.facebook.com/dpsgwehr/","children":"Facebook"}]," zu finden. Dort bleibt ihr immer auf dem Laufenden. Viel Spaß beim Stöbern!"]}]],[["$","script","script-0",{"src":"/_next/static/chunks/4345b68116fe550b.js","async":true}]],["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+4:null
